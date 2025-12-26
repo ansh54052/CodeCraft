@@ -43,6 +43,7 @@
 | Paarth Arora            |iit2025280-sys        | IIIT Allahabad                 |
 | Ibrahim Raza Beg        | PHOX-9               | IIIT Allahabad                 |
 | Mayank Puri             | purimayank19-bot.  | IIIT Allahabad                  |
+| Abhigyan Tiwari            | Abh-igyan  | NIT Silchar                  |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
 
